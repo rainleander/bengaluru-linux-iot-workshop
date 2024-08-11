@@ -40,7 +40,18 @@ Maintain a Feedback Form as you follow your workflow. Write down any time you ar
 
 ### Setup and Configuration  
 
-- [Set up your host machine](https://docs.qualcomm.com/bundle/resource/topics/80-70014-253/set_up_the_device.html?product=1601111740013072) 
+- [Set up your host machine](https://docs.qualcomm.com/bundle/resource/topics/80-70014-253/set_up_the_device.html?product=1601111740013072)
+
+#### Windows on Snapdragon using WSL
+
+- Enable "Turn Windows features on or off" : select Windows Subsystem for Linux  
+- Restart the machine  
+- Using Windows PowerShell, run the command "wsl --update"  
+- Once completed, run the command "wsl --install Ubuntu-22.04"
+- Breathe (it'll take a few minutes to install)  
+- Reboot the system   
+- Run the command "wsl --set-default-version 2" and then **repeat** the installation command (wsl --install Ubuntu-22.04" (we have no explanation why you have to do it twice)  
+- Enter your UNIX (don't be scared) username (unix) and password (unix)  
 
 - Connect the RB3 Gen2 device to the host  
 
