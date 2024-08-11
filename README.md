@@ -10,7 +10,7 @@ This comprehensive workshop empowers developers to build innovative multimedia a
 ## Scope 
 ### Overview 
 
-- Do not sacrifice sleep, food, or health to complete this trial. Your well-being is more important than everything else. However, if you run into issues that will prevent you from completing the trial, please contact Rain (rleander@qti.qualcomm.com) ASAP to let them know.  
+- Do not sacrifice sleep, food, or health to complete this trial. Your well-being is more important than everything else.   
 
 - If you have not done so, [set up your Qualcomm ID](https://myaccount.qualcomm.com/signup), confirm your email, then [sign the PKLA](https://qualcomm.com/agreements) using your Qualcomm ID.  This gives you access to the documentation. 
 
@@ -22,96 +22,90 @@ When you run into issues, search through the [CE Forums](https://mysupport.qualc
 
 Maintain a Feedback Form as you follow your workflow. Write down any time you are lost, confused, or frustrated and, if applicable, how you resolved it. Submit it by EOB Wednesday 24 July 2024.  
 
-Bring hardware to the panel on Thursday 25 July. The panel is a two-hour guided discussion led by Rain with DevRel Engineering. We may also have visitors who are  stakeholders and technical leads of the RB3 Gen2, Qualcomm Linux, and related projects.  
+## Introduction and Setup ~1 hr  
 
-Introduction and Setup ~1 hr  
+### Introduction  
 
-Introduction  
+- Overview of the RB3 Gen2 Development Kit and its components  
 
-Overview of the RB3 Gen2 Development Kit and its components  
+- What is open source? What does it mean to share my work online?  
 
-What is open source? What does it mean to share my work online?  
+### What is in the Box  
 
-What is in the Box  
+- Detailed explanation of the components in the Vision kit  
 
-Detailed explanation of the components in the Vision kit  
+- During set up, check the Qualcomm Linux software version and update, if needed 
 
-During set up, check the Qualcomm Linux software version and update, if needed 
+### Setup and Configuration  
 
-Setup and Configuration  
+- Set up your host machine 
 
-Set up your host machine 
+- Connect the RB3 Gen2 device to the host  
 
-Connect the RB3 Gen2 device to the host  
-
-Focused Development ~4-6 hrs  
+## Focused Development ~4-6 hrs  
 
 Please work on one of three application development workflow based on your specialization: Audio, Visual, or AI application development. Please follow the documentation and work on creating one sample application that you may want to publish online under an open-source license.  
 
-Workflow One: Audio Application Development   
+### Workflow One: Audio Application Development   
 
-Introduction to Audio Capabilities  
+#### Introduction to Audio Capabilities  
 
-Overview of audio processing features on the RB3 Gen2  
+- Overview of audio processing features on the RB3 Gen2  
 
-Exploration of the audio sample applications  
+- Exploration of the audio sample applications  
 
-Hands on Development  
+#### Hands on Development  
 
-Set up the development environment for audio applications  
+- Set up the development environment for audio applications  
 
-Develop a simple audio recording and playback application  
+- Develop a simple audio recording and playback application  
 
-Implement audio effects and filters  
+- Implement audio effects and filters  
 
-Testing and Feedback  
+#### Testing and Feedback  
 
-Test the application on the RB3 Gen2  
+- Test the application on the RB3 Gen2  
 
-Collect feedback on the development experience and performance  
+- Collect feedback on the development experience and performance  
 
-Workflow Two: Visual Application Development  
+### Workflow Two: Visual Application Development  
 
-Introduction to Visual Capabilities  
+#### Introduction to Visual Capabilities  
 
-Overview of visual processing features on the RB3 Gen2  
+- Overview of visual processing features on the RB3 Gen2  
 
-Exploration of the video sample applications  
+- Exploration of the video sample applications  
 
-Hands on Development  
+#### Hands on Development  
 
-Develop a simple camera application for image capture and processing  
+- Develop a simple camera application for image capture and processing  
 
-Implement basic image filters and effects  
+- Implement basic image filters and effects  
 
-Testing and Feedback  
+#### Testing and Feedback  
 
-Test the application on the RB3 Gen2  
+- Test the application on the RB3 Gen2  
 
-Collect feedback on the development experience and performance  
+- Collect feedback on the development experience and performance  
 
-Workflow Three: AI Application Development  
+### Workflow Three: AI Application Development  
 
-Introduction to AI Capabilities  
+#### Introduction to AI Capabilities  
 
-Overview of AI processing features on the RB3 Gen2  
+- Overview of AI processing features on the RB3 Gen2  
 
-Exploration of the AI sample applications  
+- Exploration of the AI sample applications  
 
-Hands on Development  
+#### Hands on Development  
 
-Set up the development environment for AI applications or models  
+- Set up the development environment for AI applications or models  
 
-Develop a simple AI application using:  
+- Develop a simple AI application using pre-trained models via https://aihub.qualcomm.com/
 
-Pre-trained models via https://aihub.qualcomm.com/   
+- Implement basic AI functions such as object detection or speech recognition  
 
-Or bring your own model 
+#### Testing and Feedback  
 
-Implement basic AI functions such as object detection or speech recognition  
+- Test the application on the RB3 Gen2  
 
-Testing and Feedback  
-
-Test the application on the RB3 Gen2  
-
-Collect feedback on the development experience and performance  
+- Collect feedback on the development experience and performance  
