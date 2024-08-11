@@ -26,19 +26,17 @@ Maintain a Feedback Form as you follow your workflow. Write down any time you ar
 
 ### Introduction  
 
-- Overview of the RB3 Gen2 Development Kit and its components  
+- [Overview of the RB3 Gen2 Development Kit and its components](https://docs.qualcomm.com/bundle/resource/topics/80-70014-115/dev-kits.html?product=1601111740013072)  
 
-- What is open source? What does it mean to share my work online?  
+- [What is open source?](https://opensource.com/resources/what-open-source) What does it mean to [share my work online](https://en.wikipedia.org/wiki/Open-source_software)?  
 
 ### What is in the Box  
 
-- Detailed explanation of the components in the Vision kit  
-
-- During set up, check the Qualcomm Linux software version and update, if needed 
+- [Detailed explanation of the components in the Vision kit](https://docs.qualcomm.com/bundle/resource/topics/80-70014-253/getting_started.html?product=1601111740013072)  
 
 ### Setup and Configuration  
 
-- Set up your host machine 
+- [Set up your host machine](https://docs.qualcomm.com/bundle/resource/topics/80-70014-253/set_up_the_device.html?product=1601111740013072) 
 
 - Connect the RB3 Gen2 device to the host  
 
@@ -50,13 +48,13 @@ Please work on one of three application development workflow based on your speci
 
 #### Introduction to Audio Capabilities  
 
-- Overview of audio processing features on the RB3 Gen2  
+- [Overview of audio processing features on the RB3 Gen2](https://docs.qualcomm.com/bundle/resource/topics/80-70014-16/overview.html?product=1601111740013072&facet=Audio)  
 
-- Exploration of the audio sample applications  
+- [Exploration of the audio sample applications](https://docs.qualcomm.com/bundle/publicresource/topics/80-70014-50/multimedia-sample-applications.html)  
 
 #### Hands on Development  
 
-- Set up the development environment for audio applications  
+- [Set up the development environment for audio applications](https://docs.qualcomm.com/bundle/resource/topics/80-70014-16/verify.html?product=1601111740013072&facet=Audio)  
 
 - Develop a simple audio recording and playback application  
 
@@ -66,15 +64,15 @@ Please work on one of three application development workflow based on your speci
 
 - Test the application on the RB3 Gen2  
 
-- Collect feedback on the development experience and performance  
+- [Collect feedback on the development experience and performance]()  
 
 ### Workflow Two: Visual Application Development  
 
 #### Introduction to Visual Capabilities  
 
-- Overview of visual processing features on the RB3 Gen2  
+- [Overview of visual processing features on the RB3 Gen2](https://docs.qualcomm.com/bundle/resource/topics/80-70014-20/overview.html?product=1601111740013072&facet=Video)  
 
-- Exploration of the video sample applications  
+- [Exploration of the video sample applications](https://docs.qualcomm.com/bundle/publicresource/topics/80-70014-50/multimedia-sample-applications.html)  
 
 #### Hands on Development  
 
@@ -86,19 +84,19 @@ Please work on one of three application development workflow based on your speci
 
 - Test the application on the RB3 Gen2  
 
-- Collect feedback on the development experience and performance  
+- [Collect feedback on the development experience and performance]()  
 
 ### Workflow Three: AI Application Development  
 
 #### Introduction to AI Capabilities  
 
-- Overview of AI processing features on the RB3 Gen2  
+- [Overview of AI processing features on the RB3 Gen2](https://docs.qualcomm.com/bundle/resource/topics/80-70014-15/overview.html?product=1601111740013072&facet=Artificial%20Intelligence)  
 
-- Exploration of the AI sample applications  
+- [Exploration of the AI sample applications](https://docs.qualcomm.com/bundle/publicresource/topics/80-70014-50/ai-ml-sample-applications.html)  
 
 #### Hands on Development  
 
-- Set up the development environment for AI applications or models  
+- [Set up the development environment for AI applications or models](https://docs.qualcomm.com/bundle/resource/topics/80-70014-15B/offering.html?product=1601111740013072)  
 
 - Develop a simple AI application using pre-trained models via https://aihub.qualcomm.com/
 
@@ -108,4 +106,4 @@ Please work on one of three application development workflow based on your speci
 
 - Test the application on the RB3 Gen2  
 
-- Collect feedback on the development experience and performance  
+- [Collect feedback on the development experience and performance]()  
