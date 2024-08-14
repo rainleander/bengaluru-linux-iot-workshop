@@ -1,4 +1,4 @@
-# Qualcomm Linux / IoT Guide  
+# Bengaluru Linux / IoT Workshop   
 
 ## Developing Applications on the Qualcomm RB3 Gen 2  
 
