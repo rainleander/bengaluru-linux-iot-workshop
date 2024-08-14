@@ -17,7 +17,7 @@ This comprehensive workshop empowers developers to build innovative multimedia a
 
 When you run into issues, search through the [CE Forums](https://mysupport.qualcomm.com/supportforums/s/) so that engineering may address them directly. It is vitally important that when you run into an issue, you search FIRST as the issue and workaround may already be posted by someone else. For real-time chat, discussions, and asynchronous communication, please visit the [Qualcomm Developers Discord Server](https://discord.gg/qualcommdevelopernetwork). This platform facilitates interaction among the community. 
 
-Maintain a Feedback Form as you follow your workflow. Write down any time you are lost, confused, or frustrated and, if applicable, how you resolved it. Submit it by EOB Wednesday 24 July 2024.  
+Maintain a Feedback Form as you follow your workflow. Write down any time you are lost, confused, or frustrated and, if applicable, how you resolved it.   
 
 ## Introduction and Setup ~1 hr  
 
