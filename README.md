@@ -15,7 +15,7 @@ This comprehensive workshop empowers developers to build innovative multimedia a
 
 - Set up your Host System using the requirements listed [here](https://docs.qualcomm.com/bundle/resource/topics/80-70014-254/github_workflow_unregistered_users.html?product=1601111740013072) (scroll down to ‘Host machine requirements'). You will set up either a virtual host on your existing OS or an Ubuntu 22.04 host on baremetal. You will also need an external monitor and an HDMI cable for the sample applications.  
 
-When you run into issues, search through the [CE Forums](https://mysupport.qualcomm.com/supportforums/s/) so that engineering may address them directly. It is vitally important that when you run into an issue, you search FIRST as the issue and workaround may already be posted by someone else. For real-time chat, discussions, and asynchronous communication, please visit the [Qualcomm Developers Discord Server](https://discord.gg/x4EWK6K6). This platform facilitates interaction among the community. 
+When you run into issues, search through the [CE Forums](https://mysupport.qualcomm.com/supportforums/s/) so that engineering may address them directly. It is vitally important that when you run into an issue, you search FIRST as the issue and workaround may already be posted by someone else. For real-time chat, discussions, and asynchronous communication, please visit the [Qualcomm Developers Discord Server](https://discord.gg/qualcommdevelopernetwork). This platform facilitates interaction among the community. 
 
 Maintain a Feedback Form as you follow your workflow. Write down any time you are lost, confused, or frustrated and, if applicable, how you resolved it. Submit it by EOB Wednesday 24 July 2024.  
 
@@ -72,8 +72,6 @@ Please work on one of three application development workflow based on your speci
 
 - Test the application on the RB3 Gen2  
 
-- [Collect feedback on the development experience and performance]()  
-
 ### Workflow Two: Visual Application Development  
 
 #### Introduction to Visual Capabilities  
@@ -91,8 +89,6 @@ Please work on one of three application development workflow based on your speci
 #### Testing and Feedback  
 
 - Test the application on the RB3 Gen2  
-
-- [Collect feedback on the development experience and performance]()  
 
 ### Workflow Three: AI Application Development  
 
@@ -113,5 +109,3 @@ Please work on one of three application development workflow based on your speci
 #### Testing and Feedback  
 
 - Test the application on the RB3 Gen2  
-
-- [Collect feedback on the development experience and performance]()  
