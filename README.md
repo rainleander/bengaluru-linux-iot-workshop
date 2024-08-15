@@ -37,7 +37,7 @@ Maintain a Feedback Form as you follow your workflow. Write down any time you ar
 
 #### Windows on Snapdragon using WSL
 
-- Enable "Turn Windows features on or off" : select Windows Subsystem for Linux  
+- Using "Turn Windows features on or off", enable Windows Subsystem for Linux  
 - Restart the machine  
 - Using Windows PowerShell, run the command "wsl --update"  
 - Once completed, run the command "wsl --install Ubuntu-22.04"
